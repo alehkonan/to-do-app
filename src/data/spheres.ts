@@ -3,22 +3,22 @@ import { Sphere } from '../types';
 export const spheres: Sphere[] = [
   {
     id: 1,
-    name: 'Food',
+    name: 'Еда',
     color: '#525200',
   },
   {
     id: 2,
-    name: 'Relationship',
+    name: 'Отношения',
     color: '#204345',
   },
   {
     id: 3,
-    name: 'Sport',
+    name: 'Спорт',
     color: '#521393',
   },
   {
     id: 4,
-    name: 'Entertaimant',
+    name: 'Развлечения',
     color: '#102893',
   },
 ];

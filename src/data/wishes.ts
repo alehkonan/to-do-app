@@ -3,7 +3,7 @@ import { Wish } from '../types';
 export const wishes: Wish[] = [
   {
     id: 1,
-    text: 'Listen to music',
+    text: 'Послушать музыку',
     sphere: {
       id: 4,
       name: 'Entertaimant',
@@ -12,12 +12,12 @@ export const wishes: Wish[] = [
   },
   {
     id: 2,
-    text: 'Watch a film',
+    text: 'Посмотреть фильм',
     sphere: null,
   },
   {
     id: 3,
-    text: 'Kiss somebody',
+    text: 'Поцеловать кого-нибудь',
     sphere: {
       id: 2,
       name: 'Relationship',
@@ -26,7 +26,7 @@ export const wishes: Wish[] = [
   },
   {
     id: 4,
-    text: 'Eat halvah',
+    text: 'Съесть халву',
     sphere: {
       id: 1,
       name: 'Food',
@@ -35,7 +35,7 @@ export const wishes: Wish[] = [
   },
   {
     id: 5,
-    text: 'Ride a bicycle',
+    text: 'Покататься на велосипеде',
     sphere: {
       id: 3,
       name: 'Sport',
